@@ -2,3 +2,4 @@ I am master
 i am good girl
 i am login
 i am logout
+forgot paddword
